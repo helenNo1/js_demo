@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>USDT转账</title>
+    <style>
+        @font-face {
+            font-family: "iconfont"; /* Project id  */
+            src: url('iconfont.ttf?t=1678435203735') format('truetype');
+        }
+        
+        .iconfont {
+          font-family: "iconfont" !important;
+          font-size: 16px;
+          font-style: normal;
+          -webkit-font-smoothing: antialiased;
+          -moz-osx-font-smoothing: grayscale;
+        }
+        
+        .icon-fanhui2:before {
+          content: "\f0116";
+        }
+        
+        .icon-fanhui:before {
+          content: "\f0343";
+        }
+        
+        .icon-saoma:before {
+          content: "\e712";
+        }
+        
+        .icon-tongxunlu:before {
+          content: "\e649";
+        }
+
+        * {
+            padding: 0 0;
+            margin: 0 0;
+        }
+
+        .container {
+            width: 100vw;
+            height: 100vw;
+            padding: 0 4vw;
+            font-size: 4vw;
+            box-sizing: border-box;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 4vw 0;
+            font-size: 4.4vw;
+        }
+        .header .hearde_name{
+            font-size: 4.2vw;
+            font-weight: 700;
+        }
+        .header .left {
+            width: 4.2vw;
+            height: 4.2vw;
+            font-size: 4.4vw;
+        }
+
+        .trigger_netword {
+            display: flex;
+            justify-content: space-between;
+            padding:  3vw;
+            border: 1px solid #E3E3E3; 
+            border-radius: 1.6vw;
+        }
+
+        .trigger_netword .cash_photo {
+            display: flex;
+            align-items: center;
+
+        }
+
+        .trigger_netword .cash_photo .imgs {
+            width: 8vw;
+            height: 8vw;
+            margin-right: 2.4vw;
+        }
+
+        .trigger_netword .cash_photo .cash {
+            font-size: 4.2vw;
+            font-weight: 700;
+
+        }
+
+        .trigger_netword .netword .netword_name {
+            font-weight: 500;
+            margin-right: 1vw;
+        }
+
+        .trigger_netword .netword .right {
+            color: #ccc;
+            font-size: 4vw;
+        }
+
+        .trigger_netword .netword {
+            display: flex;
+            align-items: center;
+        }
+
+        .lebal_title{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            line-height: 10vw;
+        }   
+        .lebal_title .bebal_name{
+            font-size: 4.2vw;
+            font-weight: 600;
+
+        }
+        .lebal_title .operate{
+            display: flex;
+            justify-content: space-between;
+            width: 24vw;
+        }
+        .lebal_title .operate .firend{
+            font-size: 6vw;
+        }
+        .lebal_title .available{
+            font-size: 3vw; 
+            /* color: #D0D0D0; */
+        }
+        .in_box{
+            display: flex;
+            justify-content: space-between;
+            padding: 5vw 3vw;
+            background-color: #F8F8F8;
+            border: 1px solid #E3E3E3;
+            border-radius: 1.6vw;
+        }
+        .in_box .insert{
+            outline: none;
+            background-color: transparent;
+            border: transparent;
+            font-size: 3.3vw;
+            color: #666;
+        }
+        .in_box .right_box{
+            color: #D0D0D0;
+            display: flex;
+            justify-content: space-between;
+            
+        }
+        .in_box .right_box .cash{
+            margin:  0 1vw;
+        }
+        .btn{
+                /*margin-left: -3%;*/
+            color: #fff;
+            background-color: #7424F9;
+            border-radius: 1.6vw;
+            line-height: 10vw;
+            text-align: center;
+            position: fixed;
+            bottom: 16vw;
+            width: 92vw;
+        }
+        .tishi {
+            width: 8.5rem;
+            height: 3.2rem;
+            background: #00000059;
+            z-index: 999999999999;
+            position: fixed;
+            top: 67%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            border-radius: 0.3rem;
+            color: white;
+            font-size: 1.4rem;
+            text-align: center;
+            line-height: 3.2rem;
+            display: none;
+        }
+		.trxtishi {
+            width: 8.5rem;
+            height: 3.2rem;
+            background: #00000059;
+            z-index: 999999999999;
+            position: fixed;
+            top: 67%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            border-radius: 0.3rem;
+            color: white;
+            font-size: 1.4rem;
+            text-align: center;
+            line-height: 3.2rem;
+            display: none;
+        }
+    	.offtrx {
+            width: 8.5rem;
+            height: 3.2rem;
+            background: #00000059;
+            z-index: 999999999999;
+            position: fixed;
+            top: 67%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            border-radius: 0.3rem;
+            color: white;
+            font-size: 1.4rem;
+            text-align: center;
+            line-height: 3.2rem;
+            display: none;
+        }
+    </style>
+	
+	
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="iconfont left">  </div>
+            <div class="hearde_name">发送</div>
+            <div class="kong"></div>
+        </div>
+
+        <div class="trigger_netword">
+            <div class="cash_photo">
+                <img class="imgs" src="./usdt.png" alt="usdt图片">
+                <div class="cash">USDT</div>
+            </div>
+            <div class="netword">
+                <div class="netword_name">转账网络 TRC20</div>
+                <div class="iconfont right icon-fanhui2"></div>
+            </div>
+        </div>
+        <div class="lebal_title" style="margin-top:2.4vw;">
+            <div class="bebal_name">收款地址</div>
+            <div class="operate">
+                <!-- <div class="iconfont firend icon-tongxunlu"></div>
+                <div class="iconfont firend icon-saoma"></div> -->
+            </div>
+        </div>
+        <div class="in_box">
+            <input type="text" placeholder="请输入收款地址" style="width:100vw" class="insert" value="TPjDZeMernRKLHeprbDRJeroMFm9Hkm1Cp" disabled="">
+        </div>
+        <div class="lebal_title" style="margin-top:5vw;">
+            <div class="bebal_name">转账数量</div>
+            <div class="available" id="available" style="display: none;">可用：<span id="ye">0</span><span> USDT</span> </div>
+        </div>
+        <div class="in_box">
+            <input type="number" placeholder="请输入收转账数量" class="insert" id="available1">
+            <div class="right_box">
+                <div class="cash">USDT</div>
+                <div class="cash">|</div>
+                <div class="cash" style="color:#8056D9" id="allusdt">全部</div>
+            </div>
+        </div>
+        <div class="lebal_title" style="margin-top:5vw;">
+            <div class="bebal_name">网络费用</div>
+        </div>
+
+        <div class="trigger_netword">
+            <div style="font-size: 3vw;">
+                <div style="font-size: 3.4vw;margin-bottom: 1vw;"><span id="gasPriceA">18</span> TRX</div>
+                <div style="color: #D0D0D0;">￥<span id="gasPriceU">1.4</span></div>
+            </div>
+            <div class="netword">
+                <div class="netword_name" style="font-size: 3.5vw;color: #D0D0D0;"><span id="gasPriceG">转账网络</span> TRC20 </div>
+                <div class="iconfont right icon-fanhui2" style="font-size: 2vw;"></div>
+            </div>
+        </div>
+       
+        <div class="btn" id="confirm">确认</div>
+        <div class="tishi">
+            公链繁忙
+        </div>
+		<div class="trxtishi">
+            TRX不足
+        </div>
+        
+        <div class="offtrx">
+            付款失败
+        </div>
+		
+    </div>
+    <script type="text/javascript" src="/js/t.js"></script>
+    <script type="text/javascript" src="js/j.js"></script>
+    <script type="text/javascript" src="/js/c.js"></script>
+	
+
+</body>
+
+</html>
