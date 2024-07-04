@@ -1,0 +1,134 @@
+diff --git a/arbitrage.js b/arbitrage.js
+index d48f99e..c9d78f5 100644
+--- a/arbitrage.js
++++ b/arbitrage.js
+@@ -9,6 +9,19 @@ let pairs = [],
+ 
+ const eventEmitter = new events();
+ 
++const checkBtcUsdtEthBnb = (d1, d2, d3) => {
++  if (d1 != 'USDT') {
++    return false;
++  }
++
++  // if(d2 === 'ETH' || d2 === 'BTC' || d2 === 'BNB' ||d3 === 'ETH' || d3 === 'BTC' || d3 === 'BNB') {
++  //   return true;
++  // }
++
++  return true;
++}
++
++
+ const getPairs = async () => {
+   const resp = await got('https://api.binance.com/api/v3/exchangeInfo');
+   const eInfo = JSON.parse(resp.body);
+@@ -33,6 +46,9 @@ const getPairs = async () => {
+   s1.forEach((d1) => {
+     s2.forEach((d2) => {
+       s3.forEach((d3) => {
++        if (!checkBtcUsdtEthBnb(d1, d2, d3)) {
++          return;
++        }
+         if (!(d1 == d2 || d2 == d3 || d3 == d1)) {
+           let lv1 = [],
+             lv2 = [],
+@@ -44,44 +60,56 @@ const getPairs = async () => {
+             lv1.push(d1 + d2);
+             l1 = 'num';
+           }
++
+           if (symValJ[d2 + d1]) {
+             lv1.push(d2 + d1);
+             l1 = 'den';
+           }
+ 
++
+           if (symValJ[d2 + d3]) {
+             lv2.push(d2 + d3);
+             l2 = 'num';
+           }
++
+           if (symValJ[d3 + d2]) {
+             lv2.push(d3 + d2);
+             l2 = 'den';
+           }
+ 
++
+           if (symValJ[d3 + d1]) {
+             lv3.push(d3 + d1);
+             l3 = 'num';
+           }
++
+           if (symValJ[d1 + d3]) {
+             lv3.push(d1 + d3);
+             l3 = 'den';
+           }
+ 
+           if (lv1.length && lv2.length && lv3.length) {
+-            pairs.push({
+-              l1: l1,
+-              l2: l2,
+-              l3: l3,
+-              d1: d1,
+-              d2: d2,
+-              d3: d3,
+-              lv1: lv1[0],
+-              lv2: lv2[0],
+-              lv3: lv3[0],
+-              value: -100,
+-              tpath: '',
+-            });
++            //排除 T/USDT TUSD/T 情况 导致分母搞错了
++            if (lv1[0] !== lv2[0] && lv1[0] !== lv3[0] && lv2[0] !== lv3[0]) {
++              if (lv1[0] == 'GALAEUR' || lv2[0] == 'GALAEUR' || lv3[0] == 'GALAEUR') {
++                return;
++              }
++              pairs.push({
++                l1: l1,
++                l2: l2,
++                l3: l3,
++                d1: d1,
++                d2: d2,
++                d3: d3,
++                lv1: lv1[0],
++                lv2: lv2[0],
++                lv3: lv3[0],
++                value: -100,
++                tpath: '',
++              });
++            }
+           }
++
+         }
+       });
+     });
+@@ -100,12 +128,14 @@ const processData = (data) => {
+     });
+     //Perform calculation and send alerts
+     pairs.forEach((d) => {
++
+       //continue if price is not updated for any symbol
+       if (
+         symValJ[d.lv1]['bidPrice'] &&
+         symValJ[d.lv2]['bidPrice'] &&
+         symValJ[d.lv3]['bidPrice']
+       ) {
++
+         //Level 1 calculation
+         let lv_calc, lv_str;
+         if (d.l1 === 'num') {
+@@ -187,7 +217,13 @@ const processData = (data) => {
+         }
+ 
+         d.tpath = lv_str;
+-        d.value = parseFloat(parseFloat((lv_calc - 1) * 100).toFixed(3));
++        d.value = parseFloat((lv_calc - 1));
++        //三角费率千分之1 * 3  不然没有意义
++        //GALA/EUR GAL/AEUR 费率不一样
++        //usdt  aeur gal usdt 导致80多倍
++        if (d.value > 0.003) {
++          console.log(d)
++        }
+       }
+     });
+ 

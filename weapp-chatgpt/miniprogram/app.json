@@ -1,0 +1,14 @@
+{
+  "window": {
+    "navigationBarTitleText": "AI聊天机器人",
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#343541",
+    "backgroundTextStyle": "light"
+  },
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents",
+  "pages": [
+    "pages/index/index"
+  ],
+  "usingComponents": {}
+}

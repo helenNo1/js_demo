@@ -1,0 +1,746 @@
+Mon Apr 01 2024 00:00:28 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"MOB","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"MOBBTC","lv3":"MOBUSDT","lv1de":"0.00001000","lv2de":"0.01000000","lv3de":"0.01000000"}
+Mon Apr 01 2024 00:00:28 GMT+0000 (Coordinated Universal Time)Mon Apr 01 2024 00:00:28 GMT+0000 (Coordinated Universal Time)
+succ
+--
+Mon Apr 01 2024 00:00:29 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"MOB","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"MOBBTC","lv3":"MOBUSDT","lv1de":"0.00001000","lv2de":"0.01000000","lv3de":"0.01000000"}
+Mon Apr 01 2024 00:00:29 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"100.07390860","timestamp":1711929629417,"signature":"0de443e34e6d01d1b6faddd5440d654ebb2c2a2f219ecf3d844407d94a1db4e4"}
+Mon Apr 01 2024 00:00:29 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:00:30 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"MOB","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"MOBBTC","lv3":"MOBUSDT","lv1de":"0.00001000","lv2de":"0.01000000","lv3de":"0.01000000"}
+Mon Apr 01 2024 00:00:30 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.84642360","timestamp":1711929630537,"signature":"7f709ddbe5f4d6c8d74078fa69d20f695120ce8b0c0bd41f1a82f69882bbf4bb"}
+Mon Apr 01 2024 00:00:30 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:00:31 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"MOB","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"MOBBTC","lv3":"MOBUSDT","lv1de":"0.00001000","lv2de":"0.01000000","lv3de":"0.01000000"}
+Mon Apr 01 2024 00:00:31 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.61206760","timestamp":1711929631518,"signature":"9436792fd51e71775541cb8c18fc72600914057d9effb4a76a0f06c964f36c83"}
+Mon Apr 01 2024 00:00:31 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:00:32 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"MOB","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"MOBBTC","lv3":"MOBUSDT","lv1de":"0.00001000","lv2de":"0.01000000","lv3de":"0.01000000"}
+Mon Apr 01 2024 00:00:32 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"100.07976760","timestamp":1711929632407,"signature":"fa4be2f6c209f472b6894ca650bc44b5bf9a88cea97839c59701e7db798b241c"}
+Mon Apr 01 2024 00:00:32 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:00:33 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"MOB","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"MOBBTC","lv3":"MOBUSDT","lv1de":"0.00001000","lv2de":"0.01000000","lv3de":"0.01000000"}
+Mon Apr 01 2024 00:00:33 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.83485760","timestamp":1711929633420,"signature":"d6c6236a9b3d3a37cb6141472d97bab01e257f2b46f5d6f2454547ba6ae2a385"}
+Mon Apr 01 2024 00:00:33 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:00:34 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"MOB","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"MOBBTC","lv3":"MOBUSDT","lv1de":"0.00001000","lv2de":"0.01000000","lv3de":"0.01000000"}
+Mon Apr 01 2024 00:00:34 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.58923960","timestamp":1711929634409,"signature":"c35cd46cab5e6d60d4814b3f18c86eebf0a7029725a37a3c1aefdefa91a50ead"}
+Mon Apr 01 2024 00:00:34 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:00:35 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"MOB","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"MOBBTC","lv3":"MOBUSDT","lv1de":"0.00001000","lv2de":"0.01000000","lv3de":"0.01000000"}
+Mon Apr 01 2024 00:00:35 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"100.05554960","timestamp":1711929635429,"signature":"b6f70dcd9af0f66444f1037cc3756091eb86a68a6a0d6d50f63310c88c1da903"}
+Mon Apr 01 2024 00:00:35 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:05:26 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"FDUSD","d3":"PYTH","l1":"den","l2":"den","l3":"num","lv1":"FDUSDUSDT","lv2":"PYTHFDUSD","lv3":"PYTHUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:05:27 GMT+0000 (Coordinated Universal Time)
+{"symbol":"FDUSDUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"100.26315360","timestamp":1711929926796,"signature":"9e708de5cb071cd27d9160567026581086a36cdcd989f3137aad6dcc8be138c9"}
+Mon Apr 01 2024 00:05:27 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:30:56 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:30:57 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.62395360","timestamp":1711931457478,"signature":"e8f83113ddce648f1ea033f5a5955fa84d3c4479a24cf3aaf0c60afcc8912dca"}
+Mon Apr 01 2024 00:30:57 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:30:57 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:30:58 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.58086820","timestamp":1711931458143,"signature":"e35832406e2f2b47a94c8856ef6cd8cd0173263e89f21b07b97b7364a3df3fe6"}
+Mon Apr 01 2024 00:30:58 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:30:58 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:30:59 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.58094440","timestamp":1711931459156,"signature":"35b71f18242bf11ef0329f57d6a8b9c924e09e53ec64f0154efbed75d3d95432"}
+Mon Apr 01 2024 00:30:59 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:30:59 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:00 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.58094190","timestamp":1711931460198,"signature":"c5b0b313eb579dcabcc3bb9cfd7bbfc4b9b9f993324cdb5d5e6f7d7a61b213a4"}
+Mon Apr 01 2024 00:31:00 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:00 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:01 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.57543110","timestamp":1711931461039,"signature":"47b6a3b5960b90c28310cd2f1526921d2040b6caa094cc10212babb54dd85718"}
+Mon Apr 01 2024 00:31:01 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:01 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:02 GMT+0000 (Coordinated Universal Time)Mon Apr 01 2024 00:31:02 GMT+0000 (Coordinated Universal Time)
+succ
+--
+Mon Apr 01 2024 00:31:02 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:03 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.56450920","timestamp":1711931463048,"signature":"037a0e2c29ca910797ddec0c5c21e6a673da68e1e692e6b324a964d68a442b37"}
+Mon Apr 01 2024 00:31:03 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:03 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:04 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.56453100","timestamp":1711931464050,"signature":"99b8c2815fcc65c38ef3b47441eeff45dc9fe80b2834fabe94dfb7db9107d547"}
+Mon Apr 01 2024 00:31:04 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:04 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:05 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.56451220","timestamp":1711931465039,"signature":"43d82a39093a351db2d453d167621ce21ae891904a94dd5aaa2677876fc9a0af"}
+Mon Apr 01 2024 00:31:05 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:05 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:06 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.55295790","timestamp":1711931466044,"signature":"97cd5a874e277e3c581a98bc26fa2dcd31f6eb597d4cce72e38536bb819abded"}
+Mon Apr 01 2024 00:31:06 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:06 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:07 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.54808880","timestamp":1711931467053,"signature":"cdec267ad012d6cb8fccf18545945fa5382ce9baf649eedc18466a3a4fb7be91"}
+Mon Apr 01 2024 00:31:07 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:07 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:08 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.54811780","timestamp":1711931468043,"signature":"b8716eef224fd8e0e3c540c8983945d145e669e7721e2e61f9c1fba7909dbac7"}
+Mon Apr 01 2024 00:31:08 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:08 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:09 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.54803960","timestamp":1711931469042,"signature":"9537fa15c51a767c4a2522e119992f57427dc5ec8517a9a1d851c21d7378b260"}
+Mon Apr 01 2024 00:31:09 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:09 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:10 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.54761060","timestamp":1711931470041,"signature":"f7844cdcc1869935d6a17a2db0829e469dcb58bbe8a7dbd40b5a512e0398862d"}
+Mon Apr 01 2024 00:31:10 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:10 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:11 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.53160110","timestamp":1711931471035,"signature":"6024878dfdd79be220fbac1b722461defad91e37ddc4402675a0cd9128a0a35c"}
+Mon Apr 01 2024 00:31:11 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:11 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:12 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.53176760","timestamp":1711931472040,"signature":"5bc22dc202b2185503a028b70b9fc48392e2b7eb348551e407e9b2dcbf31e878"}
+Mon Apr 01 2024 00:31:12 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:12 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:13 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.53176560","timestamp":1711931473110,"signature":"235aa73c2045e0579e7e902a1627b6797f714c9c17cc956c9cb1f0cbb5be2e0e"}
+Mon Apr 01 2024 00:31:13 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:13 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:14 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.53176360","timestamp":1711931474049,"signature":"27a3008e84a9dbed13fa3e6d84fa2adf6a14c81471312aaa7195c604f68ef44a"}
+Mon Apr 01 2024 00:31:14 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:14 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:15 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.51160160","timestamp":1711931475156,"signature":"1874ef192d05c1f00b911774d8a94a7e199ccff47af303d4007c9834e7c83adf"}
+Mon Apr 01 2024 00:31:15 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:15 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:16 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.49880760","timestamp":1711931476049,"signature":"a626dc459b36849ad1e2acd39ff48ec2a11e8a2c94f29e5a914395371090ad37"}
+Mon Apr 01 2024 00:31:16 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:16 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:17 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.49885760","timestamp":1711931477048,"signature":"59e10e168313484d20fec790f64384f62fa3a52a010063fb8baf898ad494052f"}
+Mon Apr 01 2024 00:31:17 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:17 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:18 GMT+0000 (Coordinated Universal Time)Mon Apr 01 2024 00:31:18 GMT+0000 (Coordinated Universal Time)
+succ
+--
+Mon Apr 01 2024 00:31:18 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:19 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.54804390","timestamp":1711931479050,"signature":"8ddf9dd7cc175094c87b01da393a686e93ee54a124be9694714ab47696e03caa"}
+Mon Apr 01 2024 00:31:19 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:19 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:20 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.54810070","timestamp":1711931480050,"signature":"6948a12f0eda4a80745c0cc9f55b541d16dcbf87d57170740523292ee2fc902d"}
+Mon Apr 01 2024 00:31:20 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:20 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:21 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.54815750","timestamp":1711931481057,"signature":"3eef715d9fc9915da4bcc0eb1788b0a6d30181c2c06d7010b4cf44c44cecd3ca"}
+Mon Apr 01 2024 00:31:21 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:21 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:22 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.56444550","timestamp":1711931482047,"signature":"f49c32243ac86967ee90624adf621f1de1370e1426bb6e49d7ea59c458fb5fe1"}
+Mon Apr 01 2024 00:31:22 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:22 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:23 GMT+0000 (Coordinated Universal Time)Mon Apr 01 2024 00:31:23 GMT+0000 (Coordinated Universal Time)
+succ
+--
+Mon Apr 01 2024 00:31:23 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:24 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.56440110","timestamp":1711931484113,"signature":"2e7798d400fb61fe8a089fe9c9aa1275391c92c04a9c41767eef185f71a12e72"}
+Mon Apr 01 2024 00:31:24 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:24 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:25 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.56441210","timestamp":1711931485114,"signature":"3699ef48ff67a2d859b0189a931c6544a1aeac259a5fe5bd5032e65b5530538c"}
+Mon Apr 01 2024 00:31:25 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:25 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:26 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.52352470","timestamp":1711931486052,"signature":"44d5d434b73f16828c1ae05123bf0ff969785791c7295ad1ef83bd11b6c72a2d"}
+Mon Apr 01 2024 00:31:26 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:26 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:27 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.49888470","timestamp":1711931487056,"signature":"0d3bce4850dfa5ba437e1be2ff3957c89e288f1e68b56c90be54c16e155f2d5e"}
+Mon Apr 01 2024 00:31:27 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:27 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:28 GMT+0000 (Coordinated Universal Time)Mon Apr 01 2024 00:31:28 GMT+0000 (Coordinated Universal Time)
+succ
+--
+Mon Apr 01 2024 00:31:28 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:29 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.51522950","timestamp":1711931489047,"signature":"82a49ad58b5fc61a6acb3e2d245ea452e18ad6615afbb82c904fd742be8e08d7"}
+Mon Apr 01 2024 00:31:29 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:29 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:30 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.51535550","timestamp":1711931490049,"signature":"eea26315acaeb74bfe8319838545120cf618d3ebbcd9b404d7b26b063c782998"}
+Mon Apr 01 2024 00:31:30 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:30 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:31 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.51533830","timestamp":1711931491051,"signature":"c1a95a66a6db28a2b377718ab9679c69986f391a45c42bb2fa6de962eb09deaf"}
+Mon Apr 01 2024 00:31:31 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:31 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:32 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.48312110","timestamp":1711931492055,"signature":"b8509a7ad01d82efbfa373a381cb5088d15dcfe8fb2e53d801be54d873e0d365"}
+Mon Apr 01 2024 00:31:32 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:32 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:33 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.46607090","timestamp":1711931493055,"signature":"4d4afbd3c9f762b7a54b6bcb5d629adae0697d2ee8210e110162d5f6e708c6f7"}
+Mon Apr 01 2024 00:31:33 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:33 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:34 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.46612000","timestamp":1711931494057,"signature":"7df5f1562b7124db6d6ca568b800cf7e4598429cc6e345f18ba362ac9dafbd13"}
+Mon Apr 01 2024 00:31:34 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:34 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:35 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.46604140","timestamp":1711931495058,"signature":"66d561e781be5d549f8a4eb7fe3650df991a3340532bfbae4a810ca710fb5820"}
+Mon Apr 01 2024 00:31:35 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:35 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:36 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.45812100","timestamp":1711931496053,"signature":"e1f65b8ae38f842540ba4f404ccd64c704eb087ea1b3d3ef8e48dc650982a27c"}
+Mon Apr 01 2024 00:31:36 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:36 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:37 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.43336240","timestamp":1711931497120,"signature":"3958d78ed1085411807fd64b61e6d72c96b32108052ed4b4d9d8dada896ed893"}
+Mon Apr 01 2024 00:31:37 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:31:37 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:31:38 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.43323030","timestamp":1711931498069,"signature":"b179d0417f0694975a33e03898e17defe7c0ef372305e5e0877161a74ac81b76"}
+Mon Apr 01 2024 00:31:38 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:34:47 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:34:48 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.49892330","timestamp":1711931688548,"signature":"f9db39e283a96107233712db50d14945272b8eeced30130d60e1aa7e65dcb629"}
+Mon Apr 01 2024 00:34:48 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:34:48 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:34:49 GMT+0000 (Coordinated Universal Time)Mon Apr 01 2024 00:34:49 GMT+0000 (Coordinated Universal Time)
+succ
+--
+Mon Apr 01 2024 00:34:49 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:34:50 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.51532130","timestamp":1711931690258,"signature":"28252902f23e322a13afb0617651301249af1e83f4063063b99ea90266408004"}
+Mon Apr 01 2024 00:34:50 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:34:50 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:34:51 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.51056380","timestamp":1711931691253,"signature":"0d9cea169251bae29e57d9ed50c793f8faf0a2ee5ac2f63458d4a18ad7f2c3ba"}
+Mon Apr 01 2024 00:34:51 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:34:51 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:34:52 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.49894240","timestamp":1711931692147,"signature":"7254968f645e226586ec8967f952119403970065aeb35cf87a43f5e8ebca329e"}
+Mon Apr 01 2024 00:34:52 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:34:52 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:34:53 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.48255820","timestamp":1711931693144,"signature":"f37cbe564be46f1e0338a6c75d52eda7418bb354a8305ed43910ecdfb3659fed"}
+Mon Apr 01 2024 00:34:53 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:34:53 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:34:54 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.49892820","timestamp":1711931694141,"signature":"36718202eaf974fdf3e5b5381eeed46d74be96a6e17d9bdeb57384801dfad344"}
+Mon Apr 01 2024 00:34:54 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:34:54 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:34:55 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.49894820","timestamp":1711931695151,"signature":"8f816ef85457be25be3cbcbe4dcb7d774c78fd8be0aabbbb17a1762764f1205f"}
+Mon Apr 01 2024 00:34:55 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:34:55 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:34:56 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.49882560","timestamp":1711931696147,"signature":"bf9a4dd0bf8decebcfeeb48bb40af9363d5e8a7463b3973e4083f336a986f249"}
+Mon Apr 01 2024 00:34:56 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:34:56 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:34:57 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.49187170","timestamp":1711931697144,"signature":"5b5687893eb616a2b6abd0ca2e9d38feba99877747544134cb363380e900be8b"}
+Mon Apr 01 2024 00:34:57 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:34:57 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:34:58 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.48243450","timestamp":1711931698145,"signature":"3fc12b47dea2d4e5805b1381295f47d8ea3b7ebc3dd607982c7a0e66730eff90"}
+Mon Apr 01 2024 00:34:58 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:34:58 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:34:59 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.47901980","timestamp":1711931699145,"signature":"0e3263b5c0fa3fbcaf66a3f8175c70ef149b94b3f58695fcaf3d4775449200df"}
+Mon Apr 01 2024 00:34:59 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:34:59 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:00 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.46611580","timestamp":1711931700216,"signature":"a01b9ddddda589c4af9c02f1530fd3ec041ec44cd1a057492d1fd2b7cee1880c"}
+Mon Apr 01 2024 00:35:00 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:35:00 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:01 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.46604060","timestamp":1711931701154,"signature":"1e375076807d3ad62160db99563e8be3c57783f61456ef937f692881a0b7f9eb"}
+Mon Apr 01 2024 00:35:01 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:35:01 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:02 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.46613420","timestamp":1711931702153,"signature":"fdb02a3b4bbd36342584b1e4ba9bf36071bb77a130abf56896a27686e651bc9d"}
+Mon Apr 01 2024 00:35:02 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:35:02 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:03 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.46612780","timestamp":1711931703152,"signature":"0f8962f59106a0f3880cac3d61accba2fc9fecab99e5858782675ff6852ae0d6"}
+Mon Apr 01 2024 00:35:03 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:35:03 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:04 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.45995500","timestamp":1711931704163,"signature":"f6bc9a6ae2b22c466504d2dd9ead932955270dcb8308d6553b6e3917362cb844"}
+Mon Apr 01 2024 00:35:04 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:35:04 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:05 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.44966980","timestamp":1711931705157,"signature":"0e0d841982afdaa9138e0824c7faa3554848c7e49874989fd52583e59828971c"}
+Mon Apr 01 2024 00:35:05 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:35:05 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:06 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.44976750","timestamp":1711931706156,"signature":"3c1162afbc7264539e26defbc89b87304108bb38c6db8e42ec639c7fb4562843"}
+Mon Apr 01 2024 00:35:06 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:35:06 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:07 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.44969630","timestamp":1711931707152,"signature":"f342ebf79fad42bfe4307aad29e16774b9dfb15027192b3d3b4445700b7073c7"}
+Mon Apr 01 2024 00:35:07 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:35:07 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:08 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.44962510","timestamp":1711931708154,"signature":"a0012c0360c9886ebc980758abbf083b0555de9ee468c485934a2069ce53822b"}
+Mon Apr 01 2024 00:35:08 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:35:08 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:09 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.43915040","timestamp":1711931709157,"signature":"a6a6796634df9025788f62cd2a600d9dfcb59d20530a7b51f104b7afb5c80f18"}
+Mon Apr 01 2024 00:35:09 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:35:09 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:10 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.43325740","timestamp":1711931710224,"signature":"f6a3dd8cdfa79ea1b9921f6362ed76c1cea46c9e99015516cc8676eacea08560"}
+Mon Apr 01 2024 00:35:10 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:35:10 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:11 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.43327940","timestamp":1711931711155,"signature":"ba3ce0290fde3147dab7624d356db9397a8b7167542d2e1ffdc9e8137ac1c81e"}
+Mon Apr 01 2024 00:35:11 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:35:11 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:12 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.43336800","timestamp":1711931712229,"signature":"2576f43a2d6c7aa68617e525857f918657699162d984228036305a6c9bed74cc"}
+Mon Apr 01 2024 00:35:12 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:35:12 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:13 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.43331160","timestamp":1711931713153,"signature":"9a8e746d6d8820019ea33ade6f2a6950954b61e9768498f98708e1d66e751834"}
+Mon Apr 01 2024 00:35:13 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:35:13 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:14 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.43321330","timestamp":1711931714152,"signature":"c3265d6dad65289bd20d9726356f6f93ca70dabaa2aad41943e3b437c9404615"}
+Mon Apr 01 2024 00:35:14 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:35:14 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:15 GMT+0000 (Coordinated Universal Time)Mon Apr 01 2024 00:35:15 GMT+0000 (Coordinated Universal Time)
+
+--
+Mon Apr 01 2024 00:35:15 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:16 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.43335410","timestamp":1711931716159,"signature":"f84c5add67ac83220aee6bb3f39287025def3e3795dbb61bd747976e084df744"}
+Mon Apr 01 2024 00:35:16 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:35:16 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:17 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.43325580","timestamp":1711931717149,"signature":"78dc3f369084574d280a6965a0e65977de9b26fe18d1562229bdc8b66906d084"}
+Mon Apr 01 2024 00:35:17 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:35:17 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:18 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.51525130","timestamp":1711931718154,"signature":"ef81a11261b5d5360afd2f4d6568fc2973e42c106ad663f91d6a1a199b08e7cd"}
+Mon Apr 01 2024 00:35:18 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:35:18 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:19 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.51530210","timestamp":1711931719154,"signature":"e437ba78f4b631fe007c064b8047029053d6fc7e47632226f4f6c5406b2ec703"}
+Mon Apr 01 2024 00:35:19 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:35:19 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:20 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.51536440","timestamp":1711931720155,"signature":"a09b7014ca1dc22d62110ddc405e8be1eb11a8217c52bf286c737ebf1ae50150"}
+Mon Apr 01 2024 00:35:20 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:35:20 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:21 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.51534720","timestamp":1711931721159,"signature":"a73a06ad9ff99122e1f29c8e668a2a2b950b47e6757ee93a058c94f505185f77"}
+Mon Apr 01 2024 00:35:21 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:35:21 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:22 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.49644020","timestamp":1711931722225,"signature":"837cd30c02b8b829d8d674156c6793424238e5d868abeb6c28ebcadeb16cc544"}
+Mon Apr 01 2024 00:35:22 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:35:22 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:23 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.49881640","timestamp":1711931723228,"signature":"a2f24d17219c8c000a60beffbcccdb888e7ae103a20fa6a99000ad26f11d79c9"}
+Mon Apr 01 2024 00:35:23 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:35:23 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:24 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.49883220","timestamp":1711931724164,"signature":"5ce56df6427e61229a16980bcd9acb04ce352d7afd7e8f14648ef106e2497f54"}
+Mon Apr 01 2024 00:35:24 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:35:24 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:25 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.49664800","timestamp":1711931725161,"signature":"7394254d2a2daa9ef3e53630f775ec8edc0befd79242f6f5c9518595823defe8"}
+Mon Apr 01 2024 00:35:25 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:35:25 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:26 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.48249840","timestamp":1711931726159,"signature":"dac8d507146da2520d6bb4e7390412bf642b2c81ed11c7a9ecbc7b35eb87f9fb"}
+Mon Apr 01 2024 00:35:26 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:35:26 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:27 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.48244960","timestamp":1711931727156,"signature":"bc3ef32bebcf4ede62f1735fa4475270bec8afccbbdc9f400a03b8ec3a2e6ae2"}
+Mon Apr 01 2024 00:35:27 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:35:27 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 00:35:28 GMT+0000 (Coordinated Universal Time)
+{"symbol":"WINUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"99.48240080","timestamp":1711931728163,"signature":"90ae507d6ad44d9567e505623adb8ca3d5dcfde98c245dfeddaa9320782fafd3"}
+Mon Apr 01 2024 00:35:28 GMT+0000 (Coordinated Universal Time)
+succ
+Mon Apr 01 2024 00:35:28 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"WIN","d3":"TRX","l1":"den","l2":"num","l3":"num","lv1":"WINUSDT","lv2":"WINTRX","lv3":"TRXUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 01:21:59 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"RAY","d3":"TRY","l1":"den","l2":"num","l3":"den","lv1":"RAYUSDT","lv2":"RAYTRY","lv3":"USDTTRY","lv1de":"0.10000000","lv2de":"0.10000000","lv3de":"1.00000000"}
+Mon Apr 01 2024 02:41:17 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"SYN","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"SYNBTC","lv3":"SYNUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:41:18 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"10.86613967","timestamp":1711939278064,"signature":"60ee3dd36737ff7d0a68b42964438641cea3534bf8c44a42e5560bc5a872ca81"}
+Mon Apr 01 2024 02:41:18 GMT+0000 (Coordinated Universal Time)
+succ
+--
+Mon Apr 01 2024 02:58:37 GMT+0000 (Coordinated Universal Time)Mon Apr 01 2024 02:58:37 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940317552,"signature":"545806973999c0c035c38065fde7ef007f3bb5a85aa5b56fc5069fb66dec14d8"}
+Mon Apr 01 2024 02:58:37 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 02:58:38 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:58:38 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940318292,"signature":"85cf64643855594f9477621639cd219270fcc8144f0ebddc91708444c2c62658"}
+Mon Apr 01 2024 02:58:38 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 02:58:39 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:58:39 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940319296,"signature":"14705e11ea48c772795322512896e4af1400a4aafd71a3a0f7ac47d7d391c262"}
+Mon Apr 01 2024 02:58:39 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 02:58:40 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:58:40 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940320291,"signature":"33eb3382a484705f1318f2f1a416f9e240bc6dc7bc2e10e623292918ba9246eb"}
+Mon Apr 01 2024 02:58:40 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 02:58:41 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:58:41 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940321291,"signature":"c428c8c76edb746658866681fd5d05a4b5ac2ac90b8637787904fbfa2df570cd"}
+Mon Apr 01 2024 02:58:41 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 02:58:42 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:58:42 GMT+0000 (Coordinated Universal Time)Mon Apr 01 2024 02:58:42 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+--
+Mon Apr 01 2024 02:58:43 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:58:43 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940323294,"signature":"4948835883c133192dee7d0936e4ea3d27ada31a66101784888b9831b90fd0b1"}
+Mon Apr 01 2024 02:58:43 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 02:58:44 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:58:44 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940324295,"signature":"240607c3402995e25f57210e56f8a445eed43a7ef321f6ba160e7f1435fe5050"}
+Mon Apr 01 2024 02:58:44 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 02:58:45 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:58:45 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940325291,"signature":"fb0890b9edd8eab6552ee9ef33af86631583be81128d46d39ea22915d029ea2c"}
+Mon Apr 01 2024 02:58:45 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 02:58:46 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:58:46 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940326298,"signature":"85280da9868ea27e92dd4ac3658616192b1d2f9478318086e279baa986c8cbe9"}
+Mon Apr 01 2024 02:58:46 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 02:58:47 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:58:47 GMT+0000 (Coordinated Universal Time)Mon Apr 01 2024 02:58:47 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+--
+Mon Apr 01 2024 02:58:48 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:58:48 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940328302,"signature":"982ea492147f8572880656384696eb135d6f115f84dc8cafa199e0fe9b72d492"}
+Mon Apr 01 2024 02:58:48 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 02:58:49 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:58:49 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940329308,"signature":"12210e386653418be2331fbe4d53bba645419d243900169e1b30e7956197b867"}
+Mon Apr 01 2024 02:58:49 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 02:58:50 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:58:50 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940330305,"signature":"03103c57b10fcfc4d57b35772053636030359de8a26fb209825d3b7c4df7a62c"}
+Mon Apr 01 2024 02:58:50 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 02:58:51 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:58:51 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940331295,"signature":"cc0dbaa658436b611cfb1a83ea158f5e327e88eb91f3396bbd2a0e85e6d80b21"}
+Mon Apr 01 2024 02:58:51 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 02:58:52 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:58:52 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940332297,"signature":"522d40af4a15f447887dedd29a1717d3cbd1938a7b7fa590aebb54425244ee19"}
+Mon Apr 01 2024 02:58:52 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 02:58:53 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:58:53 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940333301,"signature":"2f3b21bb90bb2761a99fcea82527bfb1fa939344e3f3b02504d4bb661870301c"}
+Mon Apr 01 2024 02:58:53 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 02:58:54 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:58:54 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940334298,"signature":"0fa4fa2c8a8070503ac9f7a709e415320ac34fc1227acb03a673c0d803185d8d"}
+Mon Apr 01 2024 02:58:54 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 02:58:55 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:58:55 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940335297,"signature":"f1b4d211783c80da6605fe9de46e619f58b5039e39404998e47d282c2fc668ed"}
+Mon Apr 01 2024 02:58:55 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 02:58:56 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:58:56 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940336304,"signature":"54961605f55477e327f9bb2d19e7cf3606aae41163e959ef27c5e23356ce197e"}
+Mon Apr 01 2024 02:58:56 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 02:58:57 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:58:57 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940337444,"signature":"facbc037cef41d1c2550caf4b32292caafff0e6a7dfdb58bc5ae1a483b5bf928"}
+Mon Apr 01 2024 02:58:57 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 02:58:58 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:58:58 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940338313,"signature":"2cc588caa1b73a79bf4d72142926467498425de167ff599da1e44cb9ef273091"}
+Mon Apr 01 2024 02:58:58 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 02:58:59 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:58:59 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940339310,"signature":"3ab53a4cf26230399f77d0c8e7f7463729e8258d852b22cdef7444570c28b99b"}
+Mon Apr 01 2024 02:58:59 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 02:59:00 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:59:00 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940340308,"signature":"2e418868b6b8358d8e1527aed1bc86bdac16a26926056ee1487be31858b977c7"}
+Mon Apr 01 2024 02:59:00 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 02:59:01 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:59:01 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940341305,"signature":"0b4c2317c92096f30ed830fffa7655be412840dbac9eee94bb94d7be2626a9e8"}
+Mon Apr 01 2024 02:59:01 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 02:59:02 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:59:02 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940342307,"signature":"13f4bcca3aebc423f76ffaacf8808694b6a6b45efcd2ca8987adb0042b889b78"}
+Mon Apr 01 2024 02:59:02 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 02:59:03 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:59:03 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940343304,"signature":"9ba5cbeaaad5bca85351173d89f3412fe3d18d589e659cde26ca7e064bd29f3f"}
+Mon Apr 01 2024 02:59:03 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 02:59:04 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:59:04 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940344308,"signature":"fe5ed745dbc62d04fd040c502a2237f1a14099a96f8c3d1b9def77a2a13f32a6"}
+Mon Apr 01 2024 02:59:04 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 02:59:05 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:59:05 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940345311,"signature":"bf8c5baa6099a07e86cea2977b90a4efc153670a65deb2244b912e7b28a39825"}
+Mon Apr 01 2024 02:59:05 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 02:59:06 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:59:06 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940346330,"signature":"34adee62481f3d20c0f0f1d83f465e76c8e50c6f2d0be9446bb5e7697e23101a"}
+Mon Apr 01 2024 02:59:06 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 02:59:07 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"BTC","d3":"VOXEL","l1":"den","l2":"den","l3":"num","lv1":"BTCUSDT","lv2":"VOXELBTC","lv3":"VOXELUSDT","lv1de":"0.00001000","lv2de":"0.10000000","lv3de":"0.10000000"}
+Mon Apr 01 2024 02:59:07 GMT+0000 (Coordinated Universal Time)
+{"symbol":"BTCUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940347312,"signature":"c57d31df8669718b18b03c70e6402ad5b026286eca617857eb0a2083771e97f0"}
+Mon Apr 01 2024 02:59:07 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 03:08:43 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"VIC","d3":"TRY","l1":"den","l2":"num","l3":"den","lv1":"VICUSDT","lv2":"VICTRY","lv3":"USDTTRY","lv1de":"0.01000000","lv2de":"0.01000000","lv3de":"1.00000000"}
+Mon Apr 01 2024 03:08:44 GMT+0000 (Coordinated Universal Time)
+{"symbol":"VICUSDT","side":"BUY","type":"MARKET","quoteOrderQty":"0.24519767","timestamp":1711940923913,"signature":"470bad87e5ef16dd0ddf7dc8462eb9ec4640dc2ea3de96ae9ecaaba080116c3d"}
+Mon Apr 01 2024 03:08:44 GMT+0000 (Coordinated Universal Time)
+{"code":-1013,"msg":"Filter failure: NOTIONAL"}
+Mon Apr 01 2024 04:15:35 GMT+0000 (Coordinated Universal Time)
+{"d1":"USDT","d2":"TRY","d3":"RAY","l1":"num","l2":"den","l3":"num","lv1":"USDTTRY","lv2":"RAYTRY","lv3":"RAYUSDT","lv1de":"1.00000000","lv2de":"0.10000000","lv3de":"0.10000000"}

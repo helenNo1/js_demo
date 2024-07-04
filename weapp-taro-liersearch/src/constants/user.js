@@ -1,0 +1,4 @@
+export const SET_IS_OPENED = 'MODIFY_IS_OPENED'
+export const SET_LOGIN_INFO = 'SET_LOGIN_INFO'
+export const SET_POSTS = 'SET_POSTS'
+export const SET_POST_FORM_IS_OPENED = 'SET_POST_FORM_IS_OPENED'
