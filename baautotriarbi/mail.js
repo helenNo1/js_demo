@@ -6,8 +6,8 @@ const transporter = nodemailer.createTransport({
     port: 465,
     secure: true,
     auth: {
-        user: '1460451166@qq.com',
-        pass: 'xtcrwovvhjgnbadb'
+        user: 'aaa@qq.com',
+        pass: 'bbb'
     }
 });
 
@@ -16,8 +16,8 @@ const transporter = nodemailer.createTransport({
 function sendMail({subject, text}) {
     // 设置邮件的内容
     const mailOptions = {
-        from: '1460451166@qq.com',
-        to: '1460451166@qq.com',
+        from: 'aaa@qq.com',
+        to: 'bbb@qq.com',
         subject: subject,
         text: text, 
     };
