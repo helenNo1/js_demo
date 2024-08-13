@@ -8,10 +8,10 @@ const {sendMail} = require('./mail');
 //const baseUrl = 'https://testnet.binance.vision/api/v3';
 
 // 替换为您的API密钥和秘密密钥
- const apiKey = 'RoxZ43UIpCXFsxOsmzVOlj0QKU9vdpmF4EcPF2DObJg80b6me0xEkxZuKV39VW3X';
- const apiSecret = 'kLRUEh2F7UBums3i4MSLUL0qhrlFe12nkCC1dAxAtqQF2UJMdhSEgBzMfiw3m30L';
-//const apiKey = 'J2C9E3u3me1lTJmLTXCZ6JJq43E27TfJmvUZFbIkOqP5mSkV9oK8HQksTOIWCfW2';
-//const apiSecret = 'eSz39C5rzK7kwWwbuTtWpgoTjMYnViQAZIsoV5EeIIlB5YxekywscZfTj0k9HmFl';
+ const apiKey = '1111';
+ const apiSecret = '22222';
+//const apiKey = '3333';
+//const apiSecret = '4444';
 
 function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
