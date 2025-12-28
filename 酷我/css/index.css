@@ -1,0 +1,213 @@
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+body,
+ul,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: -apple-system, BlinkMacSystemFont, PingFangSC-Regular, "PingFang SC", "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #333;
+}
+img {
+  vertical-align: bottom;
+}
+ul {
+  list-style-type: none;
+}
+a {
+  color: #333;
+  text-decoration: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+body {
+  background-color: #f9fafb;
+}
+body header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 13.33333333vw;
+  width: 100%;
+  padding: 0 4vw;
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+body header .left {
+  height: 13.33333333vw;
+  width: 62.66666667vw;
+  background-image: url(../assets/head.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+body header .down {
+  width: 21.33333333vw;
+  height: 8vw;
+  background-color: #ffe31b;
+  border-radius: 4vw;
+  color: #333;
+  font-size: 3.73333333vw;
+  line-height: 8vw;
+  text-align: center;
+}
+body .search {
+  width: 92vw;
+  height: 8.53333333vw;
+  line-height: 8.53333333vw;
+  border-radius: 5.33333333vw;
+  margin: 0 auto;
+  margin-top: 13.33333333vw;
+  background-color: #f2f4f5;
+  color: #a1a4b3;
+  text-align: center;
+  font-size: 3.73333333vw;
+}
+body .banner {
+  margin-top: 4vw;
+  display: flex;
+  padding: 0 4vw;
+}
+body .banner a {
+  display: block;
+}
+body .banner a img {
+  border-radius: 2.66666667vw;
+  width: 100%;
+  object-fit: contain;
+}
+body .paihang {
+  margin: 0 4vw;
+  margin-top: 4vw;
+}
+body .paihang ul li {
+  margin-top: 2.66666667vw;
+  display: flex;
+  width: 92vw;
+  height: 28vw;
+  background-color: #fff;
+  margin-right: 2.66666667vw;
+  border-radius: 4vw;
+}
+body .paihang ul li img {
+  width: 28vw;
+  height: 28vw;
+  border-radius: 4vw;
+  margin-right: 4vw;
+}
+body .paihang ul li .right {
+  padding: 2.66666667vw 0;
+  height: 28vw;
+}
+body .paihang ul li .right .bang {
+  height: 7.46666667vw;
+  font-size: 3.73333333vw;
+}
+body .paihang ul li .right .list a {
+  display: block;
+  color: #a1a4b3;
+  height: 5.86666667vw;
+  line-height: 5.86666667vw;
+  font-size: 3.2vw;
+}
+body .title {
+  height: 6.93333333vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+body .title h4 {
+  font-size: 5.33333333vw;
+}
+body .title .more {
+  font-size: 3.2vw;
+  color: #a1a4b3;
+}
+body .tuijian {
+  margin: 0 4vw;
+  margin-top: 4vw;
+}
+body .tuijian ul {
+  margin-top: 2.66666667vw;
+  display: flex;
+  flex-wrap: wrap;
+}
+body .tuijian ul li {
+  width: 28vw;
+  height: 38.13333333vw;
+  margin-bottom: 2.66666667vw;
+  margin-right: 2.66666667vw;
+}
+body .tuijian ul li a {
+  width: 28vw;
+}
+body .tuijian ul li a .dianzan {
+  position: relative;
+}
+body .tuijian ul li a .dianzan img {
+  width: 28vw;
+  height: 28vw;
+  object-fit: cover;
+  border-radius: 2.66666667vw;
+}
+body .tuijian ul li a .dianzan span {
+  display: block;
+  width: 18.66666667vw;
+  height: 7.46666667vw;
+  text-align: center;
+  line-height: 7.46666667vw;
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 0 2.13333333vw 0 2.13333333vw;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  color: #fff;
+  font-size: 14px;
+}
+body .tuijian ul li a p {
+  font-size: 3.73333333vw;
+}
+body .foot {
+  position: fixed;
+  bottom: 8vw;
+  left: 4vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 92vw;
+  background-color: #fff;
+  height: 12vw;
+  border-radius: 5.33333333vw;
+  padding: 0 2.66666667vw 0 4vw;
+}
+body .foot img {
+  height: 9.6vw;
+  width: 9.6vw;
+  object-fit: cover;
+}
+body .foot .desc {
+  margin-left: 2.66666667vw;
+  font-size: 14px;
+  flex: 1;
+}
+body .foot .iconfont {
+  width: 8.53333333vw;
+  height: 8.53333333vw;
+  line-height: 8.53333333vw;
+  font-size: 14px;
+  background-color: #eee;
+  border-radius: 50%;
+  text-align: center;
+}
